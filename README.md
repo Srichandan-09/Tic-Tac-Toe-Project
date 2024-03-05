@@ -10,10 +10,6 @@ Check out the <a href="https://srichandan-09.github.io/Tic-Tac-Toe-Project/" tar
 Tic-Tac-Toe game, a classic game for two players where each player takes turns marking a grid of 3x3 squares with their X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. It is also known as Noughts and Crosses or Xs and Os. The game is implemented using React and CSS
 </p>
 
-<p align="center">
-  <img alt="Tic-Tac-Toe" src="dist/Tic-Tac-Toe-Screenshot.png" width="100%" />
-</p>
-
 ## Game rules
 
 1. The game is played on a grid that is 3 squares by 3 squares
@@ -35,6 +31,11 @@ Tic-Tac-Toe game, a classic game for two players where each player takes turns m
 - Deriving & Sharing states across components
 - Lifting computed values up
 - Deriving computed Values from other computed values
+
+
+<p align="center">
+  <img alt="Tic-Tac-Toe" src="dist/Tic-Tac-Toe-Screenshot.png" width="100%" />
+</p>
 
 ---
 
