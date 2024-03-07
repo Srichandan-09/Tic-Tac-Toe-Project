@@ -3,9 +3,6 @@
     <img src="/public/game-logo.png" alt="Logo" width="15%" height="auto">
  </p>
 
-<h2 align="center">
-Check out the <a href="https://srichandan-09.github.io/Tic-Tac-Toe-Project/" target="_blank">live Tic-Tac-Toe Game here</a>.
-</h2>
 <p align="left">
 Tic-Tac-Toe game, a classic game for two players where each player takes turns marking a grid of 3x3 squares with their X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. It is also known as Noughts and Crosses or Xs and Os. The game is implemented using React and CSS
 </p>
@@ -32,6 +29,15 @@ Tic-Tac-Toe game, a classic game for two players where each player takes turns m
 - Lifting computed values up
 - Deriving computed Values from other computed values
 
+<h2 id="demo">🚀 Live Demo</h2>
+
+<p>Immerse yourself in its design and functionality with an interactive live demo — simply click the link to explore.</p>
+
+**Live Preview** ➡️ [Demo](https://srichandan-09.github.io/Tic-Tac-Toe-Project/)
+
+<h2 id="screenshots">🖼️ Project Screenshot</h2>
+
+<p>Feel free to check out the screenshot of my website for a sneak peek into its captivating user interface.</p>
 
 <p align="center">
   <img alt="Tic-Tac-Toe" src="dist/Tic-Tac-Toe-Screenshot.png" width="100%" />
